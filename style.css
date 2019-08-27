@@ -1,0 +1,13 @@
+body {
+    padding-top:20px;
+}
+
+.col-form-label {
+    font-weight:bold;
+    text-align:left;
+}
+
+.form-check {
+    text-align: left;
+    padding-left: 35px;
+}
